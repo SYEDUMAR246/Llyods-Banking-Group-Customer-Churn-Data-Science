@@ -27,15 +27,12 @@ This project simulates a real-world data science task undertaken by the **Data S
   
 ## 🗂️ Project Structure
 ```
-📁 lloyds-churn-prediction
-├── 📄 README.md
-├── 📊 churn_analysis.ipynb
-├── 📁 data/
-│ └── customer_data.csv
-├── 📁 models/
-│ └── random_forest_model.pkl
-└── 📈 outputs/
-└── feature_importance_plot.png
+📁 lloyds-churn-prediction/
+├── 📄 README.md # Project overview and documentation
+├── 📄 Customer_Churn_Analysis_Report.docx # Formal report (text-based)
+├── 📄 Customer_Churn_Analysis_Report_with_Visuals.docx # Report including charts and visuals
+├── 📊 Customer_Churn_Data_Large.xlsx # Dataset used for analysis and modeling
+├── 📈 roc_curve.png # ROC curve visualization (model performance)
 ```
 
 ## 📌 Skills Demonstrated
